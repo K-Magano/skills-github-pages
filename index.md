@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: As the Empire Grows
 ---
 
+Welcome to me Thoughts.
